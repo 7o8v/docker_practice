@@ -34,7 +34,7 @@ $ ip addr show bridge0
 
 ```json
 {
-  "bridge": "bridge0",
+  "bridge": "bridge0"
 }
 ```
 
